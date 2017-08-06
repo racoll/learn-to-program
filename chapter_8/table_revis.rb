@@ -20,3 +20,4 @@ puts contents[5].ljust(line_width/2) + (contents[6].rjust(line_width/2))
 #too much repetition!!
 
 #check carefully against solution!
+#how to improve this...
