@@ -1,0 +1,7 @@
+---
+- - eggs
+  - bacon
+  - '42'
+- - hammer
+  - nails
+  - 42
